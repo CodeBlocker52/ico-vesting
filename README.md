@@ -141,7 +141,7 @@ forge test --gas-report
 
 3. **Set the contract address in environment**
    ```bash
-   export SMART_TOKENS_ADDRESS=0xYourDeployedContractAddress
+   export SMART_TOKENS_ADDRESS=0xcB48dceBFaE26033FA7444fbD770588386281495
    ```
 
 ### Deploy to Mainnet
